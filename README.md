@@ -2,7 +2,6 @@
 
 Enterprise-style retail sales analytics dashboard built with **React, TypeScript, Tailwind CSS, and Supabase**. It visualizes e-commerce order data with live KPIs, trend charts, category/brand breakdowns, customer segmentation, and regional heatmaps — with CSV export.
 
-[![Open in Bolt](https://github.com/stackblitz/bolt.new/blob/main/public/open-in-bolt.svg?raw=true)](https://bolt.new/~/sb1-pftxdmss)
 
 ## Overview
 
